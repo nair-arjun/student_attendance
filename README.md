@@ -31,3 +31,13 @@ To demo the model after training the model, run the following command:
 ```
 $ py student_attendance/main.py demo
 ```
+
+## Student Report Generating
+
+The model finaly generates a report for the instructor, containing the students that were present and their engagement percentage for the class period.
+
+ As shown below:
+
+| Person | Attendance | Total Time | Engaged Time | Confused Time | Percentage Engaged | Date       |
+|--------|------------|------------|--------------|---------------|-------------------|------------|
+| Arjun  | present    | 95         | 70           | 25            | 73.68%            | 2023-04-24 |
