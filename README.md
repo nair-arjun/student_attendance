@@ -6,7 +6,7 @@ This project was part of the Neural Networks class, and demonstrated at the Mach
 
 
 <div style="text-align:center">
-    <img src="project_poster.png" alt="Poster" width="50%" height="50%" align="center">
+    <img src="project_poster.png" alt="Poster" width="100%" height="100%" align="center">
 </div>
 
 </br>
